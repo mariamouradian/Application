@@ -1,0 +1,5 @@
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Lesson1\obj\Debug\net9.0\Lesson1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Lesson1\obj\Debug\net9.0\Lesson1.AssemblyInfoInputs.cache
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Lesson1\obj\Debug\net9.0\Lesson1.AssemblyInfo.cs
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Lesson1\obj\Debug\net9.0\Lesson1.csproj.CoreCompileInputs.cache
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Lesson1\obj\Debug\net9.0\Lesson1.sourcelink.json

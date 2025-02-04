@@ -15,6 +15,8 @@ namespace FamilyMembers
         public string FullName { get; set; }
         public FamilyMember Mother { get; set; }
         public FamilyMember Father { get; set; }
+        public FamilyMember Spouse { get; set; }
+        
 
         public FamilyMember[] GetGrandMotherName()
         {
@@ -25,8 +27,12 @@ namespace FamilyMembers
         {
             return new FamilyMember[] { Mother?.Father, Father?.Father };
         }
+        public FamilyMember[] GetSpouseName()
+        {
+            return new FamilyMember[] { Spouse };
+        }
+
     }
 
     public enum Gender { male, female }
-
 }

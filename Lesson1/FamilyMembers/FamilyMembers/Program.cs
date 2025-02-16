@@ -44,6 +44,13 @@ namespace FamilyMembers
                 Gender = Gender.female,
                 Spouse = GrandFatherTwo
             };
+
+            GrandFatherOne.Spouse = GrandMotherOne;
+            GrandMotherOne.Spouse = GrandFatherOne;
+
+            GrandFatherTwo.Spouse = GrandMotherTwo;
+            GrandMotherTwo.Spouse = GrandFatherTwo;
+
             FamilyMember Mother = new FamilyMember()
             {
                 FullName = "Петрова Вера Ивановна",
@@ -61,6 +68,10 @@ namespace FamilyMembers
                 Father = GrandFatherOne,
                 Spouse = Mother
             };
+
+            Mother.Spouse = Father;
+            Father.Spouse = Mother;
+
             FamilyMember Son = new FamilyMember()
             {
                 FullName = "Петров Аркадий Кириллович",
@@ -72,20 +83,22 @@ namespace FamilyMembers
 
             var GrandMothers = Son.GetGrandMotherName();
             var GrandFathers = Son.GetGrandFatherName();
-            var Spouses = GrandFathers.GetSpouseName();
+
             //Console.WriteLine(GrandMothers[0]?.FullName);
             //Console.WriteLine(GrandMothers[1]?.FullName);
             //Console.WriteLine(GrandFathers[0]?.FullName);
-            Console.WriteLine(Son.FullName);
-            Console.WriteLine(Father.FullName);
-            Console.Write(" + ");
-            Console.Write(Mother.FullName);
-            Console.WriteLine(GrandFathers[0]?.FullName);
-            Console.Write(" + ");
-            Console.Write(GrandFathers[0]?.Get.FullName);
-            Console.WriteLine(GrandFathers[1]?.FullName);
-            Console.Write(" + ");
-            Console.Write(GrandFathers[1]?.Spouse.FullName);
+
+            Console.WriteLine("Семейное древо:");
+            Son.PrintFamilyTree();
+            Console.WriteLine();
+            Father.PrintFamilyTree();
+            Console.WriteLine();
+            Mother.PrintFamilyTree();
+
+            //Console.WriteLine($"Супруг(а) отца: {Father.GetSpouseName()}");
+            //Console.WriteLine($"Супруг(а) деда 1: {GrandFatherOne.GetSpouseName()}");
+            //Console.WriteLine($"Супруг(а) деда 2: {GrandFatherTwo.GetSpouseName()}");
+
 
         }
     }

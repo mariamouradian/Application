@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace FamilyMembers
 {
+    public enum Gender { male, female }
     // Генеалогическое древо
 
     public class FamilyMember
@@ -27,12 +28,28 @@ namespace FamilyMembers
         {
             return new FamilyMember[] { Mother?.Father, Father?.Father };
         }
-        public FamilyMember[] GetSpouseName()
+        public string GetSpouseName()
         {
-            return new FamilyMember[] { Spouse };
+            return Spouse != null ? Spouse.FullName : "Нет супруга";
         }
 
+        public void PrintFamilyTree(string indent = "")
+        {
+            Console.WriteLine($"{indent}{FullName} ({Age})");
+            if (Spouse != null)
+            {
+                Console.WriteLine($"{indent}  ├── Супруг(а): {Spouse.FullName} ({Spouse.Age})");
+            }
+            if (Father != null)
+            {
+                Console.WriteLine($"{indent}  ├── Отец: {Father.FullName} ({Father.Age})");
+            }
+            if (Mother != null)
+            {
+                Console.WriteLine($"{indent}  ├── Мать: {Mother.FullName} ({Mother.Age})");
+            }
+        }
     }
 
-    public enum Gender { male, female }
+
 }

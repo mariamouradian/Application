@@ -1,0 +1,15 @@
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Lecture5\Seminar5_HW\Seminar5_HW\bin\Debug\net9.0\Seminar5_HW.exe
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Lecture5\Seminar5_HW\Seminar5_HW\bin\Debug\net9.0\Seminar5_HW.deps.json
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Lecture5\Seminar5_HW\Seminar5_HW\bin\Debug\net9.0\Seminar5_HW.runtimeconfig.json
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Lecture5\Seminar5_HW\Seminar5_HW\bin\Debug\net9.0\Seminar5_HW.dll
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Lecture5\Seminar5_HW\Seminar5_HW\bin\Debug\net9.0\Seminar5_HW.pdb
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Lecture5\Seminar5_HW\Seminar5_HW\obj\Debug\net9.0\Seminar5_HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Lecture5\Seminar5_HW\Seminar5_HW\obj\Debug\net9.0\Seminar5_HW.AssemblyInfoInputs.cache
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Lecture5\Seminar5_HW\Seminar5_HW\obj\Debug\net9.0\Seminar5_HW.AssemblyInfo.cs
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Lecture5\Seminar5_HW\Seminar5_HW\obj\Debug\net9.0\Seminar5_HW.csproj.CoreCompileInputs.cache
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Lecture5\Seminar5_HW\Seminar5_HW\obj\Debug\net9.0\Seminar5_HW.sourcelink.json
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Lecture5\Seminar5_HW\Seminar5_HW\obj\Debug\net9.0\Seminar5_HW.dll
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Lecture5\Seminar5_HW\Seminar5_HW\obj\Debug\net9.0\refint\Seminar5_HW.dll
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Lecture5\Seminar5_HW\Seminar5_HW\obj\Debug\net9.0\Seminar5_HW.pdb
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Lecture5\Seminar5_HW\Seminar5_HW\obj\Debug\net9.0\Seminar5_HW.genruntimeconfig.cache
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Lecture5\Seminar5_HW\Seminar5_HW\obj\Debug\net9.0\ref\Seminar5_HW.dll

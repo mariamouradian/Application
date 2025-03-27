@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MLMuradyan\\Desktop\\GB Education\\CsharpGB\\C#Application\\Seminar5\\Seminar5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5FB340-C78C-456C-9F48-C8C2F3353EE6}|Seminar5\\Seminar5.csproj|c:\\users\\mlmuradyan\\desktop\\gb education\\csharpgb\\c#application\\seminar5\\seminar5\\seminar5\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5FB340-C78C-456C-9F48-C8C2F3353EE6}|Seminar5\\Seminar5.csproj|solutionrelative:seminar5\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5FB340-C78C-456C-9F48-C8C2F3353EE6}|Seminar5\\Seminar5.csproj|c:\\users\\mlmuradyan\\desktop\\gb education\\csharpgb\\c#application\\seminar5\\seminar5\\seminar5\\icalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5FB340-C78C-456C-9F48-C8C2F3353EE6}|Seminar5\\Seminar5.csproj|solutionrelative:seminar5\\icalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5FB340-C78C-456C-9F48-C8C2F3353EE6}|Seminar5\\Seminar5.csproj|c:\\users\\mlmuradyan\\desktop\\gb education\\csharpgb\\c#application\\seminar5\\seminar5\\seminar5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5FB340-C78C-456C-9F48-C8C2F3353EE6}|Seminar5\\Seminar5.csproj|solutionrelative:seminar5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\MLMuradyan\\Desktop\\GB Education\\CsharpGB\\C#Application\\Seminar5\\Seminar5\\Seminar5\\Calculator.cs",
+              "RelativeDocumentMoniker": "Seminar5\\Calculator.cs",
+              "ToolTip": "C:\\Users\\MLMuradyan\\Desktop\\GB Education\\CsharpGB\\C#Application\\Seminar5\\Seminar5\\Seminar5\\Calculator.cs",
+              "RelativeToolTip": "Seminar5\\Calculator.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:31:47.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICalc.cs",
+              "DocumentMoniker": "C:\\Users\\MLMuradyan\\Desktop\\GB Education\\CsharpGB\\C#Application\\Seminar5\\Seminar5\\Seminar5\\ICalc.cs",
+              "RelativeDocumentMoniker": "Seminar5\\ICalc.cs",
+              "ToolTip": "C:\\Users\\MLMuradyan\\Desktop\\GB Education\\CsharpGB\\C#Application\\Seminar5\\Seminar5\\Seminar5\\ICalc.cs",
+              "RelativeToolTip": "Seminar5\\ICalc.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:27:52.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MLMuradyan\\Desktop\\GB Education\\CsharpGB\\C#Application\\Seminar5\\Seminar5\\Seminar5\\Program.cs",
+              "RelativeDocumentMoniker": "Seminar5\\Program.cs",
+              "ToolTip": "C:\\Users\\MLMuradyan\\Desktop\\GB Education\\CsharpGB\\C#Application\\Seminar5\\Seminar5\\Seminar5\\Program.cs",
+              "RelativeToolTip": "Seminar5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:23:30.783Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

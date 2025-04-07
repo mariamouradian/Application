@@ -1,0 +1,15 @@
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Seminar8\Seminar8\Seminar8\bin\Debug\net9.0\Seminar8.exe
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Seminar8\Seminar8\Seminar8\bin\Debug\net9.0\Seminar8.deps.json
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Seminar8\Seminar8\Seminar8\bin\Debug\net9.0\Seminar8.runtimeconfig.json
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Seminar8\Seminar8\Seminar8\bin\Debug\net9.0\Seminar8.dll
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Seminar8\Seminar8\Seminar8\bin\Debug\net9.0\Seminar8.pdb
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Seminar8\Seminar8\Seminar8\obj\Debug\net9.0\Seminar8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Seminar8\Seminar8\Seminar8\obj\Debug\net9.0\Seminar8.AssemblyInfoInputs.cache
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Seminar8\Seminar8\Seminar8\obj\Debug\net9.0\Seminar8.AssemblyInfo.cs
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Seminar8\Seminar8\Seminar8\obj\Debug\net9.0\Seminar8.csproj.CoreCompileInputs.cache
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Seminar8\Seminar8\Seminar8\obj\Debug\net9.0\Seminar8.sourcelink.json
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Seminar8\Seminar8\Seminar8\obj\Debug\net9.0\Seminar8.dll
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Seminar8\Seminar8\Seminar8\obj\Debug\net9.0\refint\Seminar8.dll
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Seminar8\Seminar8\Seminar8\obj\Debug\net9.0\Seminar8.pdb
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Seminar8\Seminar8\Seminar8\obj\Debug\net9.0\Seminar8.genruntimeconfig.cache
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Seminar8\Seminar8\Seminar8\obj\Debug\net9.0\ref\Seminar8.dll

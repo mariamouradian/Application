@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MLMuradyan\\Desktop\\GB Education\\CsharpGB\\C#Application\\Seminar8\\Seminar8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MLMuradyan\\Desktop\\GB Education\\CsharpGB\\C#Application\\Seminar8\\Seminar8\\Task2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MLMuradyan\\Desktop\\GB Education\\CsharpGB\\C#Application\\Seminar8\\Seminar8\\Seminar8\\out.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar8\\out.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MLMuradyan\\Desktop\\GB Education\\CsharpGB\\C#Application\\Seminar8\\Seminar8\\Seminar8\\Task1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar8\\Task1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MLMuradyan\\Desktop\\GB Education\\CsharpGB\\C#Application\\Seminar8\\Seminar8\\Seminar8\\TextFile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar8\\TextFile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MLMuradyan\\Desktop\\GB Education\\CsharpGB\\C#Application\\Seminar8\\Seminar8\\Seminar8\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar8\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MLMuradyan\\Desktop\\GB Education\\CsharpGB\\C#Application\\Seminar8\\Seminar8\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "C:\\Users\\MLMuradyan\\Desktop\\GB Education\\CsharpGB\\C#Application\\Seminar8\\Seminar8\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T23:24:28.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "out.txt",
+              "DocumentMoniker": "C:\\Users\\MLMuradyan\\Desktop\\GB Education\\CsharpGB\\C#Application\\Seminar8\\Seminar8\\Seminar8\\out.txt",
+              "RelativeDocumentMoniker": "Seminar8\\out.txt",
+              "ToolTip": "C:\\Users\\MLMuradyan\\Desktop\\GB Education\\CsharpGB\\C#Application\\Seminar8\\Seminar8\\Seminar8\\out.txt",
+              "RelativeToolTip": "Seminar8\\out.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-06T23:13:51.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task1.csproj",
+              "DocumentMoniker": "C:\\Users\\MLMuradyan\\Desktop\\GB Education\\CsharpGB\\C#Application\\Seminar8\\Seminar8\\Seminar8\\Task1.csproj",
+              "RelativeDocumentMoniker": "Seminar8\\Task1.csproj",
+              "ToolTip": "C:\\Users\\MLMuradyan\\Desktop\\GB Education\\CsharpGB\\C#Application\\Seminar8\\Seminar8\\Seminar8\\Task1.csproj",
+              "RelativeToolTip": "Seminar8\\Task1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-06T22:52:06.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextFile1.txt",
+              "DocumentMoniker": "C:\\Users\\MLMuradyan\\Desktop\\GB Education\\CsharpGB\\C#Application\\Seminar8\\Seminar8\\Seminar8\\TextFile1.txt",
+              "RelativeDocumentMoniker": "Seminar8\\TextFile1.txt",
+              "ToolTip": "C:\\Users\\MLMuradyan\\Desktop\\GB Education\\CsharpGB\\C#Application\\Seminar8\\Seminar8\\Seminar8\\TextFile1.txt",
+              "RelativeToolTip": "Seminar8\\TextFile1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-06T22:52:20.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MLMuradyan\\Desktop\\GB Education\\CsharpGB\\C#Application\\Seminar8\\Seminar8\\Seminar8\\Program.cs",
+              "RelativeDocumentMoniker": "Seminar8\\Program.cs",
+              "ToolTip": "C:\\Users\\MLMuradyan\\Desktop\\GB Education\\CsharpGB\\C#Application\\Seminar8\\Seminar8\\Seminar8\\Program.cs",
+              "RelativeToolTip": "Seminar8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T22:44:27.487Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

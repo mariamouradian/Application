@@ -1,0 +1,7 @@
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Seminar8\Seminar8_HW\Seminar8_HW\bin\Release\Seminar8_HW.exe.config
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Seminar8\Seminar8_HW\Seminar8_HW\bin\Release\Seminar8_HW.exe
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Seminar8\Seminar8_HW\Seminar8_HW\bin\Release\Seminar8_HW.pdb
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Seminar8\Seminar8_HW\Seminar8_HW\obj\Release\Seminar8_HW.csproj.AssemblyReference.cache
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Seminar8\Seminar8_HW\Seminar8_HW\obj\Release\Seminar8_HW.csproj.CoreCompileInputs.cache
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Seminar8\Seminar8_HW\Seminar8_HW\obj\Release\Seminar8_HW.exe
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\Seminar8\Seminar8_HW\Seminar8_HW\obj\Release\Seminar8_HW.pdb

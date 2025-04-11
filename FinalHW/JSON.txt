@@ -1,0 +1,25 @@
+{
+"Employees": [
+{
+"EmployeeGUID": "ccd0d2c7-ed87-11ec-810b-00155d052829",
+"EmployeeTN": "000061",
+"AbsenceDurations": [
+{
+"AbsenceTypeName": "Командировка",
+"AbsenceBegin": "2025-01-20",
+"AbsenceEnd": "2025-01-24"
+},
+{
+"AbsenceTypeName": "Командировка",
+"AbsenceBegin": "2025-03-24",
+"AbsenceEnd": "2025-03-28"
+},
+{
+"AbsenceTypeName": "Командировка",
+"AbsenceBegin": "2025-04-07",
+"AbsenceEnd": "2025-04-11"
+}
+]
+}
+]
+}

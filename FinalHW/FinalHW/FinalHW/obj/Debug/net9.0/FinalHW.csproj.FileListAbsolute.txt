@@ -1,0 +1,15 @@
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\FinalHW\FinalHW\FinalHW\bin\Debug\net9.0\FinalHW.exe
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\FinalHW\FinalHW\FinalHW\bin\Debug\net9.0\FinalHW.deps.json
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\FinalHW\FinalHW\FinalHW\bin\Debug\net9.0\FinalHW.runtimeconfig.json
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\FinalHW\FinalHW\FinalHW\bin\Debug\net9.0\FinalHW.dll
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\FinalHW\FinalHW\FinalHW\bin\Debug\net9.0\FinalHW.pdb
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\FinalHW\FinalHW\FinalHW\obj\Debug\net9.0\FinalHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\FinalHW\FinalHW\FinalHW\obj\Debug\net9.0\FinalHW.AssemblyInfoInputs.cache
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\FinalHW\FinalHW\FinalHW\obj\Debug\net9.0\FinalHW.AssemblyInfo.cs
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\FinalHW\FinalHW\FinalHW\obj\Debug\net9.0\FinalHW.csproj.CoreCompileInputs.cache
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\FinalHW\FinalHW\FinalHW\obj\Debug\net9.0\FinalHW.sourcelink.json
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\FinalHW\FinalHW\FinalHW\obj\Debug\net9.0\FinalHW.dll
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\FinalHW\FinalHW\FinalHW\obj\Debug\net9.0\refint\FinalHW.dll
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\FinalHW\FinalHW\FinalHW\obj\Debug\net9.0\FinalHW.pdb
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\FinalHW\FinalHW\FinalHW\obj\Debug\net9.0\FinalHW.genruntimeconfig.cache
+C:\Users\MLMuradyan\Desktop\GB Education\CsharpGB\C#Application\FinalHW\FinalHW\FinalHW\obj\Debug\net9.0\ref\FinalHW.dll

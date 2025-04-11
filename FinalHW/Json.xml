@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Employees>
+    <Employees_0>
+      <EmployeeGUID>ccd0d2c7-ed87-11ec-810b-00155d052829</EmployeeGUID>
+      <EmployeeTN>000061</EmployeeTN>
+      <AbsenceDurations>
+        <AbsenceDurations_0>
+          <AbsenceTypeName>Командировка</AbsenceTypeName>
+          <AbsenceBegin>2025-01-20</AbsenceBegin>
+          <AbsenceEnd>2025-01-24</AbsenceEnd>
+        </AbsenceDurations_0>
+        <AbsenceDurations_1>
+          <AbsenceTypeName>Командировка</AbsenceTypeName>
+          <AbsenceBegin>2025-03-24</AbsenceBegin>
+          <AbsenceEnd>2025-03-28</AbsenceEnd>
+        </AbsenceDurations_1>
+        <AbsenceDurations_2>
+          <AbsenceTypeName>Командировка</AbsenceTypeName>
+          <AbsenceBegin>2025-04-07</AbsenceBegin>
+          <AbsenceEnd>2025-04-11</AbsenceEnd>
+        </AbsenceDurations_2>
+      </AbsenceDurations>
+    </Employees_0>
+  </Employees>
+</root>
